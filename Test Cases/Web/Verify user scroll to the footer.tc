@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user scroll to the footer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>442627d1-e416-4bc0-8ac8-5ca3400d1981</testCaseGuid>
+</TestCaseEntity>
